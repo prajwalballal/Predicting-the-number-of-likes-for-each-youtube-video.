@@ -1,0 +1,2 @@
+# Predicting-the-number-of-likes-for-each-youtube-video.
+ YouTubers earn money through advertising revenue from YouTube videos, sponsorships from companies, merchandise sales, and donations from their fans. In order to maintain a stable income, the popularity of videos become the top priority for YouTubers.If creators can have a preliminary prediction and understanding of their videos’ performance, they may adjust their video to gain the most attention from the public. In youtube, LIKES is what determines how the video is trending hence that will be our target variable.
